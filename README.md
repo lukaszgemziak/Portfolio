@@ -43,7 +43,7 @@ Szkolenie Indywidualne tester manualny 07.07.2024
 * [Po wpisaniu maksymalnie 2 znaków w wyszukiwarkę stacji rowerowych pojawia się komunikat "ZERO_RESULTS"](https://drive.google.com/file/d/1Az0nkrX7V4GI7rRlZvH5-dlmZoEx3fj0/view?usp=sharing)
 * [Na stronie umożliwiającej doładowanie konta pojawia się komunikat "Minimalny kredyt to: 0 zł"](https://drive.google.com/file/d/1BhFqUA971mxA5NR5-csC20RVTggmyrE6/view?usp=sharing)
 * [Po zapisaniu zmian na stronie "Szczegóły użytkownika" w sekcji "Informacje osobiste" nie następuje ponowne przekierowanie do tej strony](https://drive.google.com/file/d/15XquwuKSwVHkI6T-s2o5IB8nM7UFn2Zq/view?usp=sharing)
-* [Po usunięciu wpisanego zapytania z wyszukiwarki stacji rowerowych nie następuje odświeżenie wyników wyszukiwania](https://drive.google.com/file/d/1hcOmEPiLRYGbQJj4lQ0s8EwDbEyUHTN4/view?usp=sharing)
+* [Po usunięciu wpisanego zapytania z wyszukiwarki stacji rowerowych nie następuje odświeżenie wyników wyszukiwania](https://drive.google.com/file/d/1Jm0OM8nkl4T1wNs9UtfvUBVZtRrBzoF-/view?usp=sharing)
 ## MY REPORT
 ## MY REPORT FOR TORVELO
 * [Test Report](https://drive.google.com/file/d/1YOT4ccbFp94UgGxUIAc-XNhB8Ks70_yK/view?usp=sharing)
