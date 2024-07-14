@@ -4,6 +4,7 @@ I am young student with many technical skills. I am very motivated to become QA
 ## TOOLS
 * Jira
 * TestLink
+* SQL Server 2014 Management Studio
 * GitHub
 * Miro Mind Maps
 ## TECH SKIILS
