@@ -18,6 +18,7 @@ I am young student with many technical skills. I am very motivated to become QA
 Szkolenie Indywidualne tester manualny 07.07.2024
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Minikurs SQL, kurs online, prowadzący Krystian Brożek
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
