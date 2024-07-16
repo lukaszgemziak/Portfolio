@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+My name is Łukasz Gemziak. I have a master's degree in Russian studies. I graduated from Nicolaus Copernicus University in Toruń. My professional experience includes working at a university and in customer service. Recently I have started to interest of software testing. My goal is to develop testing knowledge and technical skills. I am very motivated to become QA.
 ## TOOLS
 * Jira
 * TestLink
