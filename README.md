@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-My name is Łukasz Gemziak. I have a master's degree in Russian studies. I graduated from Nicolaus Copernicus University in Toruń. I speak Polish (a native speaker), English (C1, CAE certificate), Russian (C2) and Czech (B2). My professional experience includes working at a university, in a language school and in customer service. I have a keen interest in software testing. Recently, I have  completed a training course to become a professional software tester. My goal is to develop testing knowledge and technical skills.
+My name is Łukasz Gemziak. I have a master's degree in Russian studies. I graduated from the Nicolaus Copernicus University in Toruń. I speak Polish (native speaker), English (C1, CAE certificate), Russian (C2) and Czech (B2). My professional experience includes working at a university, in a language school and in customer service. I have a keen interest in software testing. Recently, I have  completed a training course to become a professional software tester. My goal is to develop testing knowledge and technical skills.
 ## TOOLS
 * Jira
 * TestLink
